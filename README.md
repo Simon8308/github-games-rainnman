@@ -4,7 +4,8 @@ A project based learning activity for people who are getting started with Git an
 
 TODO: What to do?
 
-You can play the game at: https://githubschool.github.io/github-games/
+You can play the game at: https://githubschool.github.io/github-games-rainnman/
+
 
 >> _*SUPPORTED BROWSERS*: Chrome, Firefox, Safari, Opera and IE9+_
 
